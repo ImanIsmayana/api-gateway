@@ -1,0 +1,1 @@
+::1 - - [16/Nov/2024:02:49:20 +0000] "GET /api/master_data/variant/:prefix HTTP/1.1" 500 24 "-" "PostmanRuntime/7.37.3"
